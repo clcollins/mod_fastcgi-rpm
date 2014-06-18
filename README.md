@@ -6,10 +6,10 @@ Mod_fastcgi is an excellent way to run PHP applications with Apache and PHP-FPM.
 
 ##Building##
 
-1.     git clone https://github.com/clcollins/mod_fastcgi-rpm.git
-2.     yum install rpm-build rpmdevtools autoconf automake httpd httpd-devel apr-devel
-3.     ./build.sh mod_fastcgi
-4.     sudo rpm -i ~/rpmbuild/RPMS/*/*.rpm
+1. `git clone https://github.com/clcollins/mod_fastcgi-rpm.git`
+2. `yum install rpm-build rpmdevtools autoconf automake httpd httpd-devel apr-devel`
+3. `./build.sh mod_fastcgi`
+4. `sudo rpm -i ~/rpmbuild/RPMS/*/*.rpm`
 5. PROFIT!
 
 ##To Do##
