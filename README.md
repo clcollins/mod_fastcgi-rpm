@@ -20,8 +20,8 @@ Mod_fastcgi is an excellent way to run PHP applications with Apache and PHP-FPM.
 
 Thanks to:
 
-* Ian Meyer [https://github.com/imeyer](https://github.com/imeyer) for giving me the idea to do this (check out his awesome Runit rpm spec file and build script for RHEL-based systems).
-* Repoforge [https://github.com/repoforge](https://github.com/repoforge) for some guidance with their [https://github.com/repoforge/rpms/blob/master/specs/mod_fastcgi/mod_fastcgi.spec](.spec) file.
+* Ian Meyer [\(https://github.com/imeyer\)](https://github.com/imeyer) for giving me the idea to do this and the code to base some of this off of (check out his awesome Runit rpm spec file and build script for RHEL-based systems).
+* Repoforge [\(https://github.com/repoforge\)](https://github.com/repoforge) for some guidance with their [https://github.com/repoforge/rpms/blob/master/specs/mod_fastcgi/mod_fastcgi.spec](.spec) file.
 
 ##Copyright Information##
 
