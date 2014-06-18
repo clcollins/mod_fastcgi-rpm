@@ -1,7 +1,7 @@
 mod_fastcgi-rpm
 ===============
 
-Mod_fastcgi is an excellent way to run PHP applications with Apache and PHP-FPM.  Unfortunately it can be somewhat hard to find in repositories for RHEL-based servers.  I made this to make it easier to build inside of [Docker](http://docker.io) images.
+Mod_fastcgi is an excellent way to run PHP applications with Apache and PHP-FPM.  Unfortunately it can be somewhat hard to find in official repositories for RHEL-based servers.  I made this to make it easier to build inside of [Docker](http://docker.io) images.
 
 
 ##Building##
